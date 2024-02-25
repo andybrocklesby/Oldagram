@@ -25,6 +25,15 @@ const posts = [
         post: "images/post-ducreux.jpg",
         comment: "gm friends! which coin are YOU stacking up today?? post below and WAGMI!",
         likes: 152
+    },
+    {
+        name: "Andy Brocklesby",
+        username: "andywilliamm",
+        location: "Huntsville, AR, U.S.A",
+        avatar: "images/profile-image.jpeg",
+        post: "images/grillin.JPG",
+        comment: "Grillin. Chillin. And feeling good after completing this solo project 🙌",
+        likes: 115
     }
 ]
 
